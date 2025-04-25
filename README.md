@@ -16,7 +16,7 @@ To run this project, ensure you have the following installed:
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/chuck-ankit/Sentiment_Analysis_using_SGD)
     cd Sentiment-Analysis
     ```
 2. Install dependencies:
