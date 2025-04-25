@@ -1,0 +1,1 @@
+{"name": "Text Classification Neural Network", "version": "1.0", "created_date": "2025-04-25T09:38:02", "description": "Feed-forward neural network with 2 hidden layers for text classification", "feature_count": 5000, "hidden_layers": [128, 64, 32]}
