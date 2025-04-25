@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-This project focuses on performing sentiment analysis using machine learning techniques. The main implementation is provided in the Jupyter Notebook [`main.ipynb`](./main.ipynb).
+This project focuses on performing sentiment analysis using machine learning techniques. The main implementation is provided in the Jupyter Notebook [`main.ipynb`](./notebook/main.ipynb).
 
 ## Features
 - Preprocessing of text data
